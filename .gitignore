@@ -1,0 +1,8 @@
+# ignore files
+*.pth
+*.pt
+*.pkl
+
+# ignore folders
+.vscode/
+__pycache__
